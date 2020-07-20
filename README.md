@@ -1,2 +1,2 @@
 # Coursera_Capstone
-getting started with girhub
+getting started with github
